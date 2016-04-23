@@ -1,1 +1,3 @@
-# Getting_and_Cleaning_Data
+# README.md
+
+Getting and Cleaning Data Course Project
