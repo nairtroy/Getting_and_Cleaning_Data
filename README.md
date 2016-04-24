@@ -14,7 +14,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ###Explanation of contents
 
-Guidelines for run_analysis.R
+###Guidelines for run_analysis.R
 -----------------------------
 
 * Get data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder to "UCI_HAR_Dataset".
@@ -22,7 +22,7 @@ Guidelines for run_analysis.R
 * Run ("run_analysis.R") command in RStudio. 
 * Output of these command will generate two csv files(tidy_dataset.csv, tidy_mean_dataset.csv) in the current working directory. 
 
-Guidelines for CodeBook.md
+###Guidelines for CodeBook.md
 --------------------------
 The CodeBook.md file explains the transformations performed and the resulting data and variables.
  
